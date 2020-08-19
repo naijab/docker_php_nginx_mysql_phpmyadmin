@@ -1,9 +1,4 @@
 # docker-php-nginx-mysql-phpmyadmin
-project ตัวอย่างจากบทความ 
-
-ทำไมถึงเลิกใช้ xampp มาใช้ Docker - Part 2: Deploy website with php, mysql, nginx and phpmyadmin
-
-https://www.naijab.com/why-use-docker-not-xampp-part-2/
 
 ## How to use
 
