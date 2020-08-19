@@ -1,4 +1,4 @@
-# docker-php-nginx-mysql-phpmyadmin
+# docker_php_nginx_mysql_phpmyadmin
 
 ## How to use
 
